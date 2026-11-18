@@ -1,0 +1,3 @@
+SERVER_NAME=LabServer
+PORT=8000
+LOGGING=enabled
